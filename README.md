@@ -1,6 +1,6 @@
 # 🎯 Multi-Fidelity Bayesian Optimization (Cost-Aware)
 
-**MultiFidelityBO** is a simulation framework for **adaptive black-box optimization** under **heterogeneous noise and cost constraints**. It compares multiple sampling strategies—**Greedy**, **Gaussian Process-based Acquisition**, and **Thompson Sampling**—to identify high-value points on the unit hypersphere within a fixed query budget.
+**MultiFidelityBO** is a simulation framework for **adaptive black-box optimization** under **heterogeneous noise and cost constraints**. It compares multiple sampling strategies—**Greedy**, **Gaussian Process-based Acquisition**, and **Thompson Sampling**—to identify high-value points on the unit (_n-dim_) hypersphere within a fixed query budget.
 
 ---
 
