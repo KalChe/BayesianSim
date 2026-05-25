@@ -1,4 +1,4 @@
-# Multi-Fidelity Bayesian Optimization
+# Bayesian Optimization
 
 This repo contains a simple simulation framework for cost-aware black box optimization with multiple noisy evaluators. The goal is to find high-value points on the unit n-dimensional sphere when evaluations have different costs and noise levels.
 
